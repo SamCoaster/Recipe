@@ -1,9 +1,10 @@
 # Ingredients
 -Peas 
--Onions
+-Spring Onions
 -Potatoes
+-Soup
 # Instructions
-1. Put peas in soup.
+1. Put Veg in soup.
 [comment]: this is a comment, ^at bottom = ctrl key pressed
 
 
